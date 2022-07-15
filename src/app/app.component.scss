@@ -1,0 +1,163 @@
+.mat-elevation-z8{
+  width: 150px;
+  height: 935px;
+  background: #191718;
+  color: white;
+  position: absolute;
+}
+.menu-button{
+  width: 150px;
+  height: 44px;
+  text-align: left;
+  border-bottom: 1px solid #5C5C5C ;
+}
+
+.banner{
+ padding-top: 20px;
+ padding-left: 729px;
+ padding-right: 729px;
+}
+.content{
+  width: 1768px;
+  height: 935px;
+  background: #FFFFFF;
+}
+.group1{
+  position: absolute;
+  width: 1510px;
+  height: 210px;
+  background: #EFEFEF;
+
+  margin-top: 30px;
+ margin-bottom: 553px;
+  margin-left: 129px;
+  margin-right: 129px;
+
+}
+h1{
+  position: absolute;
+  width: 241px;
+  height: 21px;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #000000;
+  margin-top:38px;
+  margin-bottom: 151px;
+  margin-left: 634px;
+  margin-right: 635px;
+
+}
+p{
+  position: absolute;
+  width: 972px;
+  height: 95px;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #000000;
+
+  margin-top:77px;
+  margin-bottom: 38px;
+  margin-left: 269px;
+  margin-right: 269px;
+
+}
+
+.group{
+  width: 470px;
+  height: 252px;
+
+}
+
+.column {
+  float: left;
+  padding: 10px;
+}
+
+
+.column.side {
+  width: 30%;
+}
+
+
+.column.middle {
+  width: 30%;
+}
+
+.row{
+  padding-bottom: 261px;
+  padding-left: 129px;
+  padding-top: 264px;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+@media screen and (max-width: 600px) {
+  .column.side, .column.middle {
+    width: 100%;
+  }
+}
+
+
+.text-1{
+  position: absolute;
+  width: 470px;
+  height: 72px;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+
+}
+
+.text{
+  position: absolute;
+
+  width: 326px;
+  height: 134px;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #000000;
+
+}
+
+footer{
+  width: 1768px;
+  height: 79px;
+  position: absolute;
+}
+.fo{
+  position: absolute;
+
+  width: 125px;
+  height: 19px;
+  font-family: 'roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #3E3E3E;
+  padding-left: 129px;
+  padding-top: 30px;
+}
